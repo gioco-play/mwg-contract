@@ -1,6 +1,6 @@
 {
-    "name": "gioco-plus/bolecard-contract",
-    "description": "bolecard Interface",
+    "name": "gioco-plus/mwg-contract",
+    "description": "mwg Interface",
     "type": "library",
     "license": "MIT",
     "authors": [
