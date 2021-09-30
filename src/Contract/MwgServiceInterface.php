@@ -2,7 +2,7 @@
 declare(strict_types=1);
 namespace GiocoPlus\Mwg\Contract;
 /**
- * 博樂棋牌
+ * MWGames
  */
 interface MwgServiceInterface {
 
